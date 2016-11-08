@@ -12,6 +12,7 @@ By far, the easiest way to display a certificate in your application is to use o
 
 Here's a list of supported displays:
 
+* HTML: [blockchain-certificate web component](https://github.com/blockchain-certificates/cert-web-component)
 * iOS: [RenderedCertificateView](https://github.com/blockchain-certificates/cert-wallet/tree/master/RenderedCertificateView)
 
 ### Building your own display
