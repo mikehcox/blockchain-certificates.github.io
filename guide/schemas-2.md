@@ -22,8 +22,8 @@ The following is a Blockchain Certificate issued on the testnet Bitcoin network.
 ```json
 {
   "@context": [
-    "https://openbadgespec.org/v2/context.json",
-    "https://w3id.org/blockcerts/schema/2.0-alpha/context.json"
+    "https://w3id.org/openbadges/v2",
+    "https://w3id.org/blockcerts/schema/2.0/context.json"
   ],
   "id": "urn:uuid:bc9bdbb5-d734-4242-9edc-d1bc3f8f7a6e",
   "type": "Assertion",
