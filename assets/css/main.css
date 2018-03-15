@@ -11895,7 +11895,7 @@ input.cover__form__item--13 {
 
 }
 
-.hero-cover{background-position: 0px 0px; background-color: #02112a;min-height: 100vh;}
+.hero-cover{background-position: 0px 0px; background-color: #02112a;/*min-height: 100vh;*/}
 .hero-cover nav.header.header--01{
   background-color: transparent !important;
 }
